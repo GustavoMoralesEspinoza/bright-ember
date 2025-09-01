@@ -8,8 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Smart Grids Lab
+        content: >
+          We focus on **distribution network planning, smart grids, renewable energy integration, and optimization algorithms**.  
+          Explore our projects and how we contribute to the energy transition.
         align: center
         background:
           image:
@@ -18,8 +20,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+
+      - title: 🔬 Research & Collaboration
+        content: >
+          Our group develops **stochastic models, hosting capacity studies, and AI-based optimization** for real distribution systems.  
+          Collaboration with students, professors, and industry partners drives our innovation.
         align: left
         background:
           image:
@@ -28,8 +33,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+
+      - title: 🌍 Conferences & Publications
+        content: >
+          We actively share results at international events such as **ICREPQ and INDUSCON**,  
+          and publish in leading journals on **Smart Grids and Power Quality**.  
+          Join us in shaping the future of sustainable energy.
         align: right
         background:
           image:
@@ -41,14 +50,11 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Learn More
           url: ../contact/
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: false
-      # Duration of transition between slides (in ms)
       interval: 2000
 ---

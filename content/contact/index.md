@@ -11,7 +11,7 @@ sections:
       text: |-
         The **Smart Grids Laboratory** focuses on **distribution network planning**, **integration of distributed energy resources (DERs)** such as PV and BESS, and the application of **optimization algorithms**. Our research also covers **renewable energy topics** and **Industry 4.0**, fostering collaboration with academia and the power sector through applied projects and student training.
 
-        **Location:** EPUSP – Electrical Engineering Building – **C2D (Data Science Center)**, at the **University of São Paulo (USP)**, Butantã campus.
+        **Location:** EPUSP – Electrical Engineering Building – **A2-38**, at the **University of São Paulo (USP)**, Butantã campus.
       email: gustavo.morales-espinoza@usp.br
       phone: '+55 11 3091-5260'
       address:
@@ -21,7 +21,7 @@ sections:
         postcode: '05508-010'
         country: 'Brazil'
         country_code: BR
-      directions: 'Enter the Electrical Engineering Building and go to **C2D – Data Science Center**. Plus Code: **C7V9+6Q**, Butantã.'
+      directions: 'Enter the Electrical Engineering Building and go to Lab A2-38, Butantã.'
       office_hours:
         - 'Building hours: usually open until 11:00 PM'
       appointment_url: ''

@@ -1,16 +1,46 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Presentation at ICREPQ’25 – Stochastic Methodology for PV System Allocation
+date: 2025-06-25
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+We are proud to share that our paper **“A Stochastic Methodology for PV System Allocation in Power Distribution Networks”** was presented at the **23rd International Conference on Renewable Energies and Power Quality (ICREPQ’25)**, held in **Tenerife, Spain, from June 25–27, 2025**:contentReference[oaicite:1]{index=1}.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+### About the Work
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+The rapid growth of **photovoltaic (PV) systems** has transformed distribution networks, but high penetration levels introduce challenges such as overvoltage, reverse power flow, and increased losses. To address these, our paper proposes a **stochastic approach based on Monte Carlo simulation** to estimate the **Hosting Capacity (HC)** of real Brazilian distribution systems.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Key aspects include:
+
+- Use of **historical irradiance and temperature data** to create realistic PV generation profiles.  
+- **Probabilistic allocation** of PV units across medium-voltage busbars, reflecting real-world installation trends.  
+- Evaluation of **voltage stability, losses, and reverse power flow** under various PV penetration rates.  
+- Insights into the trade-off: low penetration mitigates undervoltage, while high penetration (>80–120%) introduces significant overvoltage risks.  
+
+### Results
+
+- Moderate PV penetration improves **voltage profiles** and **reduces active power losses**.  
+- High penetration rates cause **critical overvoltage** and **loss variability**.  
+- The methodology highlights the importance of **strategic PV placement** and **penetration control** to maximize HC.  
+
+### Authors
+
+- Gustavo L. Morales Espinoza  
+- Ferdinando Crispino  
+- Leandro Martinz  
+- Mauricio B. C. Salles  
+- Carlos F. M. Almeida  
+- Renato M. Monaro  
+- Luís F. N. Lourenço  
+- Luiz H. L. Rosa  
+- Nelson Kagan  
+- Juan C. Cebrian  
+
+### Funding
+
+This work was supported by **CAPES**, **USP PRPI**, **RCGI**, **FAPESP (2020/15230-5)**, and **TotalEnergies**, with additional support from **ANP (Agência Nacional de Petróleo, Gás Natural e Biocombustíveis)**:contentReference[oaicite:2]{index=2}.
+
+---

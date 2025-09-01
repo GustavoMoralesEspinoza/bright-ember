@@ -8,20 +8,21 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        CebrianLab  
+        Smart Grids & Power Systems
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning, renewable energy integration, hosting capacity, and optimization algorithms**.  
+        Based at the University of São Paulo (USP), our mission is to combine **theory, simulation, and real-world applications** to support the energy transition.
+
   - block: collection
     content:
       title: Latest News
       subtitle:
-      text:
+      text: Stay up to date with our activities, projects, and conference participation.
       count: 5
       filters:
         author: ''
@@ -40,7 +41,10 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: |
+        **Our Vision**  
+        At CebrianLab, we aim to address the challenges of modern distribution systems through innovation, collaboration, and academic excellence.  
+        Our research spans from **Monte Carlo simulations** to **AI-driven optimization**, applied to real Brazilian distribution networks.
     design:
       columns: '1'
       background:
@@ -58,8 +62,8 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: Latest Publications
+      text: Explore our recent work presented at international conferences and published in leading journals.
       count: 5
       filters:
         folders:
@@ -74,7 +78,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the CebrianLab Team →" %}}
     design:
       columns: '1'
 ---

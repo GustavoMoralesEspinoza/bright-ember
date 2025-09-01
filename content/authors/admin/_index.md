@@ -80,7 +80,7 @@ user_groups:
 ---
 
 **Juan Carlos Cebrian Amasifen** is a **Professor at the University of São Paulo (USP)**, Escola Politécnica, Department of Energy and Electrical Automation.  
-He received his **BSc in Mechanical-Electrical Engineering** from the **Universidad Nacional de Ingeniería (UNI, Peru, 2001)**, an **MSc in Electrical Engineering** from **UNESP (Brazil, 2003)**, and a **PhD in Electrical Engineering** from **USP (2008)**. He carried out **postdoctoral research** at **USP, UNICAMP, and UFABC**, with international research stays at the **University of Manchester (UK)** and **Virginia Tech (USA)**:contentReference[oaicite:0]{index=0}.
+He received his **BSc in Mechanical-Electrical Engineering** from the **Universidad Nacional de Ingeniería (UNI, Peru, 2001)**, an **MSc in Electrical Engineering** from **UNESP (Brazil, 2003)**, and a **PhD in Electrical Engineering** from **USP (2008)**. He carried out **postdoctoral research** at **USP, UNICAMP, and UFABC**, with international research stays at the **University of Manchester (UK)** and **Virginia Tech (USA)**.
 
 His main research interests include **power quality, distribution system planning, smart grids, Industry 4.0, Internet of Things (IoT), and optimization techniques**.  
 He has authored and co-authored numerous publications in international journals such as **IEEE Transactions on Power Delivery**, **IEEE Transactions on Smart Grid**, and **Electric Power Systems Research**, and serves as a reviewer and editorial board member.
