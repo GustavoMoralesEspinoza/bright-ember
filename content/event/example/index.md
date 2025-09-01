@@ -1,63 +1,53 @@
 ---
-title: Example Event
+title: INDUSCON 2025
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 15th IEEE/IAS International Conference on Industry Applications (INDUSCON 2025)
+event_url: https://induscon2025.org  # replace with the official URL once available
 
-location: Wowchemy HQ
+location: São Paulo, Brazil
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Escola Politécnica da Universidade de São Paulo (USP)
+  city: São Paulo
+  region: SP
+  postcode: '05508-010'
+  country: Brazil
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presentation of research work on Smart Grids, Distribution Network Planning, and Optimization at INDUSCON 2025.
+abstract: 'At INDUSCON 2025, we present our latest research contributions in **smart grids, renewable energy integration, and optimization methods** applied to distribution networks. The work discusses methodologies for hosting capacity analysis and evolutionary algorithms to improve planning and reliability of modern power systems.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+# Talk start and end times
+date: '2025-11-16T09:00:00Z'
+date_end: '2025-11-19T18:00:00Z'
+all_day: true
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# Schedule page publish date (NOT talk date)
+publishDate: '2025-09-01T00:00:00Z'
 
-authors: []
-tags: []
+authors:
+  - Gustavo Lino Morales Espinoza
+  - Juan Carlos Cebrian Amasifen
+tags: 
+  - Smart Grids
+  - Distribution Network Planning
+  - Optimization
+  - Renewable Energy
+  - Industry 4.0
 
-# Is this a featured talk? (true/false)
-featured: false
+# Featured talk?
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Image credit: [**USP – Escola Politécnica**](https://www.poli.usp.br/)'
+  focal_point: Center
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: ''   # Add your slide link if you want (e.g., Google Slides or static/files/induscon2025-slides.pdf)
+url_video: ''    # Add YouTube or Vimeo link if recorded
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
+# Markdown Slides (optional)
+slides: ''
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
+# Associated projects
+projects: ["smart-grids", "distribution-planning", "optimization"]
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
