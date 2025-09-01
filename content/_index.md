@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        CebrianLab  
-        Smart Grids & Power Systems
+        CebrianLab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning, renewable energy integration, hosting capacity, and optimization algorithms**.  
+        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning and optimization algorithms**.  
         Based at the University of São Paulo (USP), our mission is to combine **theory, simulation, and real-world applications** to support the energy transition.
 
   - block: collection
