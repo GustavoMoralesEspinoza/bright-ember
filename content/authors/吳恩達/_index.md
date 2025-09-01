@@ -1,79 +1,82 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Gustavo Lino Morales Espinoza
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Gustavo Lino
+last_name: Morales Espinoza
 
-# Username (this should match the folder name)
+# Username (must match the folder name)
 authors:
-  - 吳恩達
+  - gustavo-lino-morales-espinoza
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Researcher in Power Systems
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of São Paulo (USP) – Escola Politécnica
+    url: 'https://www.poli.usp.br/'
+  - name: RCGI / InnovaPower
+    url: 'https://www.rcgi.poli.usp.br/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed at end of posts)
+bio: PhD researcher working on distribution network planning, stochastic DER allocation, hosting capacity, and power quality using OpenDSS and Python.
 
+# Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distribution Expansion Planning
+  - Hosting Capacity (HC)
+  - Distributed Energy Resources (PV, BESS)
+  - Smart Grids & Power Quality (SAIDI/SAIFI, VTCD)
+  - Evolutionary Algorithms (GA, NSGA-II, PSO, WOA)
+  - OpenDSS & Python Simulation
 
+# Education
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering (Power Systems)
+      institution: University of São Paulo (USP), Brazil
+      year: 2024–present
+    - course: MSc in Electrical Engineering (AI applied to Power Systems)
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2022–2024
+    - course: BSc in Mechanical Engineering
+      institution: Universidad Nacional de San Agustín (UNSA), Peru
+      year: 2019
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:gustavo.morales-espinoza@usp.br'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=XXXX  # replace with your profile
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://github.com/gustavomoralesespinoza
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/XXXX
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/XXXX-XXXX-XXXX-XXXX
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# Gravatar (optional)
+email: 'gustavo.morales-espinoza@usp.br'
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Organizational groups (for People widget)
 user_groups:
   - Researchers
-  - Visitors
+  - PhD Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Gustavo Lino Morales Espinoza** is a PhD researcher at the **University of São Paulo (USP)**, member of the **RCGI / InnovaPower** group. His research focuses on **distribution expansion planning**, **stochastic DER allocation (PV/BESS)**, **hosting capacity**, and **power quality analysis** (SAIDI/SAIFI, VTCD) using **OpenDSS and Python-based frameworks**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He develops methodologies based on **Monte Carlo simulations** and **evolutionary algorithms** (GA, NSGA-II, PSO, WOA) to address problems such as energy losses, reverse power flow, and voltage violations in Brazilian distribution networks.
+
+In addition to his doctoral research, he collaborates in the development of a collaborative **Hosting Capacity web platform** and teaches **Python and Smart Grids** topics for undergraduate and graduate students.

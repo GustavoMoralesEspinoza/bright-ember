@@ -9,34 +9,40 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        The **Smart Grids Laboratory** focuses on **distribution network planning**, **integration of distributed energy resources (DERs)** such as PV and BESS, and the application of **optimization algorithms**. Our research also covers **renewable energy topics** and **Industry 4.0**, fostering collaboration with academia and the power sector through applied projects and student training.
+
+        **Location:** EPUSP – Electrical Engineering Building – **C2D (Data Science Center)**, at the **University of São Paulo (USP)**, Butantã campus.
+      email: gustavo.morales-espinoza@usp.br
+      phone: '+55 11 3091-5260'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building (C2D)'
+        city: 'São Paulo'
+        region: 'SP'
+        postcode: '05508-010'
+        country: 'Brazil'
+        country_code: BR
+      directions: 'Enter the Electrical Engineering Building and go to **C2D – Data Science Center**. Plus Code: **C7V9+6Q**, Butantã.'
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        - 'Building hours: usually open until 11:00 PM'
+      appointment_url: ''
+      contact_links:
+        - icon: envelope
+          icon_pack: fas
+          name: 'Prof. Juan Carlos Cebrian'
+          link: 'mailto:juan.cebrian@usp.br'
+        - icon: envelope
+          icon_pack: fas
+          name: 'Gustavo Morales Espinoza'
+          link: 'mailto:gustavo.morales-espinoza@usp.br'
+        - icon: globe
+          icon_pack: fas
+          name: 'C2D Website'
+          link: 'https://c2d.poli.usp.br'
     
-      # Automatically link email and phone or display as text?
+      # Automatically link email and phone
       autolink: true
     
-      # Email form provider
+      # Contact form provider (optional)
       form:
         provider: netlify
         formspree:
