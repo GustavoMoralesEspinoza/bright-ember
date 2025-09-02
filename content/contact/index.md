@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2025-09-01
 
 type: landing
 
@@ -9,22 +9,25 @@ sections:
     content:
       title: Contact
       text: |-
-        The **Smart Grids Laboratory** focuses on **distribution network planning**, **integration of distributed energy resources (DERs)** such as PV and BESS, and the application of **optimization algorithms**. Our research also covers **renewable energy topics** and **Industry 4.0**, fostering collaboration with academia and the power sector through applied projects and student training.
+        The Smart Grids Laboratory focuses on distribution network planning, integration of distributed energy resources (DERs) such as PV and BESS, and the application of optimization algorithms. Our research also covers renewable energy topics and Industry 4.0, fostering collaboration with academia and the power sector through applied projects and student training.
 
-        **Location:** EPUSP – Electrical Engineering Building – **A2-38**, at the **University of São Paulo (USP)**, Butantã campus.
-      email: gustavo.morales-espinoza@usp.br
+        **Location:** USP - Polytechnic School – Electrical Engineering Building – **A2-38**, at the University of São Paulo (USP), Butantã campus.
+      email: cebrianlbusp@gmail.pe
       phone: '+55 11 3091-5260'
       address:
-        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building (A2-38)'
+        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building'
         city: 'São Paulo'
-        region: 'SP'
+        region: SP
         postcode: '05508-010'
-        country: 'Brazil'
+        country: Brazil
         country_code: BR
-      directions: 'Enter the Electrical Engineering Building and go to Lab A2-38.'
+      coordinates:
+        latitude: '–23.5570266'
+        longitude: '–46.7310404'
+      directions: 'Enter the Electrical Engineering Building at Polytechnic School and go to Lab A2-38.'
       office_hours:
-        - 'Building hours: usually open until 11:00 PM'
-      appointment_url: ''
+        - 'Monday to Friday: 10:00 to 17:00'
+      appointment_url: 'https://calendly.com' 
       contact_links:
         - icon: envelope
           icon_pack: fas
@@ -32,12 +35,12 @@ sections:
           link: 'mailto:juan.cebrian@usp.br'
         - icon: envelope
           icon_pack: fas
-          name: 'Gustavo Morales Espinoza'
+          name: 'PhD. Gustavo Morales Espinoza'
           link: 'mailto:gustavo.morales-espinoza@usp.br'
         - icon: globe
           icon_pack: fas
-          name: 'C2D Website'
-          link: 'https://c2d.poli.usp.br'
+          name: 'Power Systems Deparment USP'
+          link: 'https://ppgee.poli.usp.br/pb/contato'
     
       # Automatically link email and phone
       autolink: true
