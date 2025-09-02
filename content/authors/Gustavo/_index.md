@@ -14,7 +14,7 @@ last_name: Morales Espinoza
 superuser: false
 
 # Role/position
-role: PhD Researcher in Power Systems
+role: PhD student and Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -71,8 +71,7 @@ email: 'gustavo.morales-espinoza@usp.br'
 
 # Organizational groups (for People widget)
 user_groups:
-  - Researchers
-  - PhD Students
+  - Masters Students
 ---
 
 **Gustavo Lino Morales Espinoza** is a PhD researcher at the **University of São Paulo (USP)**, member of the **RCGI / InnovaPower** group. His research focuses on **distribution expansion planning**, **stochastic DER allocation (PV/BESS)**, **hosting capacity**, and **power quality analysis** (SAIDI/SAIFI, VTCD) using **OpenDSS and Python-based frameworks**.
