@@ -15,13 +15,13 @@ sections:
       email: gustavo.morales-espinoza@usp.br
       phone: '+55 11 3091-5260'
       address:
-        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building (C2D)'
+        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building (A2-38)'
         city: 'São Paulo'
         region: 'SP'
         postcode: '05508-010'
         country: 'Brazil'
         country_code: BR
-      directions: 'Enter the Electrical Engineering Building and go to Lab A2-38, Butantã.'
+      directions: 'Enter the Electrical Engineering Building and go to Lab A2-38.'
       office_hours:
         - 'Building hours: usually open until 11:00 PM'
       appointment_url: ''

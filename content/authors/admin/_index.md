@@ -8,7 +8,7 @@ last_name: Cebrian Amasifen
 
 # Username (must match the folder name)
 authors:
-  - juan-carlos-cebrian
+  - admin
 
 # Is this the primary user of the site?
 superuser: true

@@ -8,7 +8,7 @@ last_name: Morales Espinoza
 
 # Username (must match the folder name)
 authors:
-  - 吳恩達
+  - Gustavo
 
 # Is this the primary user of the site?
 superuser: false
