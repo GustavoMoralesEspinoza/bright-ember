@@ -15,16 +15,16 @@ sections:
       email: cebrianlbusp@gmail.pe
       phone: '+55 11 3091-5260'
       address:
-        street: 'Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building'
-        city: 'São Paulo'
+        street: Av. Prof. Luciano Gualberto, travessa 3, nº 158 – Electrical Engineering Building
+        city: São Paulo
         region: SP
         postcode: '05508-010'
         country: Brazil
         country_code: BR
       coordinates:
-        latitude: '–23.5570266'
-        longitude: '–46.7310404'
-      directions: 'Enter the Electrical Engineering Building at Polytechnic School and go to Lab A2-38.'
+        latitude: '–23.5570'
+        longitude: '–46.7310'
+      directions: Enter the Electrical Engineering Building at Polytechnic School and go to Lab A2-38.
       office_hours:
         - 'Monday to Friday: 10:00 to 17:00'
       appointment_url: 'https://calendly.com' 
