@@ -8,20 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        CebrianLab
+        Wowchemy
+        Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning and optimization algorithms**.  
-        Based at the University of São Paulo (USP), our mission is to combine **theory, simulation, and real-world applications** to support the energy transition.
-
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
   - block: collection
     content:
       title: Latest News
       subtitle:
-      text: Stay up to date with our activities, projects, and conference participation.
+      text:
       count: 5
       filters:
         author: ''
@@ -40,10 +40,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text: |
-        **Our Vision**  
-        At CebrianLab, we aim to address the challenges of modern distribution systems through innovation, collaboration, and academic excellence.  
-        Our research spans from **Monte Carlo simulations** to **AI-driven optimization**, applied to real Brazilian distribution networks.
+      text:
     design:
       columns: '1'
       background:
@@ -61,8 +58,8 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
-      text: Explore our recent work presented at international conferences and published in leading journals.
+      title: Latest Preprints
+      text: ""
       count: 5
       filters:
         folders:
@@ -77,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the CebrianLab Team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
