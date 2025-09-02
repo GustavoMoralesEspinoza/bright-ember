@@ -7,8 +7,8 @@ first_name: Juan Carlos
 last_name: Cebrian Amasifen
 
 # Username (must match the folder name)
-authors:
-  - admin
+#authors:
+#  - admin
 
 # Is this the primary user of the site?
 superuser: true

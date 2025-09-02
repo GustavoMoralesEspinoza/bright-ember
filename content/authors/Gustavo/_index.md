@@ -7,8 +7,8 @@ first_name: Gustavo Lino
 last_name: Morales Espinoza
 
 # Username (must match the folder name)
-authors:
-  - Gustavo
+#authors:
+#  - Gustavo
 
 # Is this the primary user of the site?
 superuser: false
