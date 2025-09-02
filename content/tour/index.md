@@ -8,9 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Smart Grids Lab
+      - title: Welcome to the CebrianLab
         content: >
-          We focus on **distribution network planning, smart grids, renewable energy integration, and optimization algorithms**.  
+          We focus on **distribution network planning, smart grids, renewable energy integration and optimization algorithms**. 
+
           Explore our projects and how we contribute to the energy transition.
         align: center
         background:
@@ -21,9 +22,9 @@ sections:
           position: right
           color: '#666'
 
-      - title: 🔬 Research & Collaboration
+      - title: Research & Collaboration
         content: >
-          Our group develops **stochastic models, hosting capacity studies, and AI-based optimization** for real distribution systems.  
+          Our group develops **Simulation studies, and AI-based optimization** for real distribution systems.  
           Collaboration with students, professors, and industry partners drives our innovation.
         align: left
         background:
@@ -34,11 +35,11 @@ sections:
           position: center
           color: '#555'
 
-      - title: 🌍 Conferences & Publications
+      - title: Conferences & Publications
         content: >
-          We actively share results at international events such as **ICREPQ and INDUSCON**,  
-          and publish in leading journals on **Smart Grids and Power Quality**.  
-          Join us in shaping the future of sustainable energy.
+          Connect with the **CebrianLab team** to co-create scientific articles and collaborative projects.  
+          We welcome new members and partners interested in advancing research and publishing impactful work together.  
+          Be part of our academic journey and contribute to the future of energy systems.
         align: right
         background:
           image:
@@ -50,7 +51,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Learn More
+          text: Join us
           url: ../contact/
     design:
       slide_height: ''

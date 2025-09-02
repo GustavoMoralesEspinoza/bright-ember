@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Juan Carlos Cebrian Amasifen
+title: Juan Cebrian Amasifen
 
 # Full name (for SEO)
-first_name: Juan Carlos
+first_name: Juan 
 last_name: Cebrian Amasifen
 
 # Username (must match the folder name)
-#authors:
+# authors:
 #  - admin
 
 # Is this the primary user of the site?
@@ -75,7 +75,7 @@ email: 'juan.cebrian@usp.br'
 
 # Organizational groups (for People widget)
 user_groups:
-  - Professors
+  - Principal Investigators
   - Researchers
 ---
 
