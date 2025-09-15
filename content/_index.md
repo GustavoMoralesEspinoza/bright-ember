@@ -15,8 +15,7 @@ sections:
       text: |
         <br>
         
-        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning, renewable energy integration, hosting capacity, and optimization algorithms**.  
-        Based at the University of São Paulo (USP), our mission is to combine **theory, simulation, and real-world applications** to support the energy transition.
+        The **CebrianLab** is dedicated to advancing research in **smart grids, distribution network planning, renewable energy integration and optimization algorithms**.Our mission is to combine theory, simulation, and real-world applications to support the energy transition.
 
   - block: collection
     content:
