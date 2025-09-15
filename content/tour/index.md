@@ -24,7 +24,7 @@ sections:
 
       - title: Research & Collaboration
         content: >
-          Our group develops **Simulation studies, and AI-based optimization** for real distribution systems.  
+          At CebrianLab, we aim to address the challenges of modern distribution systems through innovation, collaboration, and academic excellence. Our group develops **Simulation studies, and AI-based optimization** for real distribution systems.  
           Collaboration with students, professors, and industry partners drives our innovation.
         align: left
         background:

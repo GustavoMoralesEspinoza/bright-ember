@@ -11,7 +11,7 @@ sections:
         CebrianLab  
         Smart Grids & Power Systems
       image:
-        filename: welcome.jpg
+        filename: Smart_grids.jpg
       text: |
         <br>
         
@@ -42,8 +42,6 @@ sections:
       subtitle: ''
       text: |
         **Our Vision**  
-        At CebrianLab, we aim to address the challenges of modern distribution systems through innovation, collaboration, and academic excellence.  
-        Our research spans from **Monte Carlo simulations** to **AI-driven optimization**, applied to real Brazilian distribution networks.
     design:
       columns: '1'
       background:
