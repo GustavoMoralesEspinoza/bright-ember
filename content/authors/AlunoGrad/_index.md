@@ -20,8 +20,6 @@ role: Professor – Power Systems & Smart Grids
 organizations:
   - name: University of São Paulo (USP) – Escola Politécnica
     url: 'https://www.poli.usp.br/'
-  - name: Department of Energy and Electrical Automation
-    url: 'https://www.poli.usp.br/'
 
 # Short bio
 bio: Professor at USP working on power quality, distribution network planning, smart grids, Industry 4.0, IoT, and optimization applied to power systems.
