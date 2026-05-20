@@ -129,12 +129,7 @@ sections:
       text: |
         CebrianLab brings together faculty, researchers, graduate students, undergraduate students, alumni, and collaborators working on power systems, smart grids, optimization, and renewable energy integration.
 
-        <div class="cebrian-stat-grid">
-          <div class="cebrian-stat"><strong>1</strong><span>Faculty</span></div>
-          <div class="cebrian-stat"><strong>3</strong><span>PhD Students</span></div>
-          <div class="cebrian-stat"><strong>2</strong><span>MSc Researchers</span></div>
-          <div class="cebrian-stat"><strong>1</strong><span>Collaborator</span></div>
-        </div>
+        {{< team_summary >}}
 
         <div class="cebrian-centered-action">
           <a class="btn btn-primary" href="/team/">Meet the full team</a>

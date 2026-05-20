@@ -111,6 +111,84 @@
   border-radius: 8px;
 }
 
+.cebrian-team-directory {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.cebrian-team-group h2 {
+  margin: 0 0 1.25rem;
+  color: #102a3d;
+  font-size: 1.6rem;
+}
+
+.cebrian-pi-team-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.cebrian-team-pi-card {
+  grid-template-columns: minmax(180px, 240px) 1fr;
+}
+
+.cebrian-member-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.cebrian-member-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 1.25rem;
+  border: 1px solid rgba(18, 48, 71, 0.12);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 12px 30px rgba(18, 48, 71, 0.06);
+}
+
+.cebrian-member-photo {
+  width: 104px;
+  height: 104px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  border-radius: 50%;
+  background: #edf5f7;
+}
+
+.cebrian-member-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cebrian-member-initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #006d77;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.cebrian-member-body h3 {
+  margin: 0.25rem 0 0.35rem;
+  color: #102a3d;
+  font-size: 1.15rem;
+}
+
+.cebrian-member-body p {
+  color: #4d6373;
+}
+
+.cebrian-social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.88rem;
+}
+
 .cebrian-eyebrow {
   margin-bottom: 0.35rem;
   color: #006d77;
@@ -247,11 +325,13 @@
   .cebrian-project-grid,
   .cebrian-join-grid,
   .cebrian-stat-grid,
-  .cebrian-partner-grid {
+  .cebrian-partner-grid,
+  .cebrian-member-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .cebrian-pi-card {
+  .cebrian-pi-card,
+  .cebrian-team-pi-card {
     grid-template-columns: 1fr;
   }
 
@@ -269,7 +349,8 @@
   .cebrian-project-grid,
   .cebrian-join-grid,
   .cebrian-stat-grid,
-  .cebrian-partner-grid {
+  .cebrian-partner-grid,
+  .cebrian-member-grid {
     grid-template-columns: 1fr;
   }
 
