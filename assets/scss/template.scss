@@ -282,6 +282,18 @@
   margin-top: 1.5rem;
 }
 
+.cebrian-publications-directory {
+  display: grid;
+  gap: 2.5rem;
+  margin-top: 2rem;
+}
+
+.cebrian-publication-group h2 {
+  margin: 0 0 1rem;
+  color: #102a3d;
+  font-size: 1.55rem;
+}
+
 .cebrian-publication {
   padding: 1rem 1.25rem;
   border-left: 4px solid #006d77;
@@ -299,6 +311,23 @@
   display: block;
   color: #667887;
   font-size: 0.9rem;
+}
+
+.cebrian-publication-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.55rem;
+}
+
+.cebrian-publication-meta span {
+  display: inline-flex;
+  padding: 0.22rem 0.5rem;
+  border-radius: 999px;
+  background: #edf5f7;
+  color: #28505f;
+  font-size: 0.78rem;
+  font-weight: 700;
 }
 
 .cebrian-partner-grid {
