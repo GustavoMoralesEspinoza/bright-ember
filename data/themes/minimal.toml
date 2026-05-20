@@ -1,0 +1,13 @@
+# Minimal Theme Configuration for Hugo Blox v5.5+
+
+[light]
+# Light theme style
+primary = "#1565c0"
+text = "#111"
+background = "#ffffff"
+
+[dark]
+# Dark theme style  
+primary = "#42a5f5"
+text = "#ffffff"
+background = "#1a1a1a"
